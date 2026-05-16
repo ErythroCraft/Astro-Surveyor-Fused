@@ -8,6 +8,7 @@ This repository contains:
 - `tutorial.html` — a complete step-by-step tutorial with formulas and definitions
 - `styles.css`, `app.js`, `tutorial.js`
 
+## You can use https://erythrocraft.github.io/Astro-Surveyor-Fused/ if you would like to test it.
 ---
 
 ## Features
