@@ -1,4 +1,4 @@
-# Astro Surveyor (Fused v6) — Multi-frame Photometry + AU Models + WISEA-style Inspector
+# Astro Surveyor (Fused v7) — Multi-frame Photometry + AU Models + WISEA-style Inspector
 
 Astro Surveyor is a **browser-only** (no backend) web app for analyzing multiple astronomy images (“frames”) to detect bright sources, track their motion across frames, and compute **photometry-based magnitudes** using a reference star.  
 It also includes a minimal **AU irradiance anchor**, a reflected-object **magnitude model**, a **color/spectral heuristic**, and a **WISEA-style** object-inspector output.
